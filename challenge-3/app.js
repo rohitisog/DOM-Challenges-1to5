@@ -29,3 +29,11 @@ nameInput.addEventListener("input", handleName);
 jobInput.addEventListener("input", handleJob);
 ageInput.addEventListener("input", handleAge);
 bioInput.addEventListener("input", handleBio);
+
+
+// -----------Another method short------------
+
+
+// nameInput.addEventListener("input", () => {
+//     nameDisplay.textContent = nameInput.value;
+//   });
